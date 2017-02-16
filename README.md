@@ -12,19 +12,19 @@ Features redesigned file browser icons and New backgrounds for file browser, tex
 
 ## Previews
 
-![image](Previews\PreviewGeneral.jpg)
+![image](Previews/PreviewGeneral.jpg)
 
-![image](Previews\PreviewContext.jpg)
+![image](Previews/PreviewContext.jpg)
 
-![image](Previews\PreviewContextMore.jpg)
+![image](Previews/PreviewContextMore.jpg)
 
-![image](Previews\PreviewTextEditor.jpg)
+![image](Previews/PreviewTextEditor.jpg)
 
-![image](Previews\PreviewHexEditor.jpg)
+![image](Previews/PreviewHexEditor.jpg)
 
-![image](Previews\PreviewMusicPlayer.jpg)
+![image](Previews/PreviewMusicPlayer.jpg)
 
-![image](Previews\PreviewMusicPlayerNoCover.jpg)
+![image](Previews/PreviewMusicPlayerNoCover.jpg)
 
 *(obviously, the music visualizer is static)*
 
