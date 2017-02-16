@@ -42,7 +42,7 @@ Music Player no Cover
 
 Image Viewer
 
-![image](Previews/PeviewImageViewer.jpg)
+![image](Previews/PreviewImageViewer.jpg)
 
 *(obviously, the music visualizer is static)*
 
