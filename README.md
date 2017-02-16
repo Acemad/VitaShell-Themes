@@ -10,6 +10,8 @@ This is my entry to theFlow's VitaShell default theme contest. [Link](http://wol
 It's a fairly simple and clean theme with a predominant blue color, nondistractingly influenced by circuit boards with a touch of PlayStation. Highly consitent in every part of VitaShell.
 Features redesigned file browser icons and New backgrounds for file browser, text editor, hex editor, image viewer and music player, plus a prettier context menu and much more subtle changes and refinments.
 
+A dark variation may come in the future.
+
 ## Previews
 
 File Browser & FTP
