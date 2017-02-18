@@ -1,64 +1,64 @@
-# VitaShell colors file
+# VitaShell colors file for Cobalt Theme
 
 # Shell colors
-BACKGROUND_COLOR             = 0xFF000000    # Black
-TITLE_COLOR                  = 0xFFB14E11    # Violet
-PATH_COLOR                   = 0xFF5C5C5C    # Litegray
-DATE_TIME_COLOR              = 0xFFFFFFFF    # White
+BACKGROUND_COLOR             = 0xFF000000
+TITLE_COLOR                  = 0xFFB14E11
+PATH_COLOR                   = 0xFF5C5C5C
+DATE_TIME_COLOR              = 0xFFFFFFFF
 
 # Settings colors
-SETTINGS_MENU_COLOR          = 0xE0DCDCDC    # Black with alpha
-SETTINGS_MENU_FOCUS_COLOR    = 0x6FA8A8A8    # Azure with alpha
-SETTINGS_MENU_TITLE_COLOR    = 0xFFB14E11    # White
-SETTINGS_MENU_ITEM_COLOR     = 0xFF5C5C5C    # Gray
-SETTINGS_MENU_OPTION_COLOR   = 0xFF1C1C1C    # Green
+SETTINGS_MENU_COLOR          = 0xE0DCDCDC
+SETTINGS_MENU_FOCUS_COLOR    = 0x6FA8A8A8
+SETTINGS_MENU_TITLE_COLOR    = 0xFFB14E11
+SETTINGS_MENU_ITEM_COLOR     = 0xFF5C5C5C
+SETTINGS_MENU_OPTION_COLOR   = 0xFF1C1C1C
 
 # File browser colors
-FOCUS_COLOR                  = 0xFF00FFEA    # Green
-FILE_COLOR                   = 0xFFFFFFFF    # White
-SFO_COLOR                    = 0xFFFFFFFF    # White
-TXT_COLOR                    = 0xFFFFFFFF    # White
-FOLDER_COLOR                 = 0xFFFFC58A    # Cyan
-IMAGE_COLOR                  = 0xFFD75EFF    # Rose
-ARCHIVE_COLOR                = 0xFF5E81FF    # Orange
-SCROLL_BAR_COLOR             = 0x80E8E8E8    # Azure
-SCROLL_BAR_BG_COLOR          = 0x007F7F7F    # Gray
-MARKED_COLOR                 = 0x4F83B812    # Azure with alpha
+FOCUS_COLOR                  = 0xFF00FFEA
+FILE_COLOR                   = 0xFFFFFFFF
+SFO_COLOR                    = 0xFFFFFFFF
+TXT_COLOR                    = 0xFFFFFFFF
+FOLDER_COLOR                 = 0xFFFFC58A
+IMAGE_COLOR                  = 0xFFD75EFF
+ARCHIVE_COLOR                = 0xFF5E81FF
+SCROLL_BAR_COLOR             = 0x80E8E8E8
+SCROLL_BAR_BG_COLOR          = 0x007F7F7F
+MARKED_COLOR                 = 0x4F83B812
 
 # Context menu colors
-CONTEXT_MENU_TEXT_COLOR      = 0xFFFFFFFF    # White
-CONTEXT_MENU_FOCUS_COLOR     = 0xFF00FFEA    # Green
-CONTEXT_MENU_COLOR           = 0xFA2F2F2F    # Darkgray #2 with alpha
-CONTEXT_MENU_MORE_COLOR      = 0xFC282828    # Darkgray #3 with alpha
-INVISIBLE_COLOR              = 0x80FFFFFF   # Darkgray #1
+CONTEXT_MENU_TEXT_COLOR      = 0xFFFFFFFF
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF00FFEA
+CONTEXT_MENU_COLOR           = 0xFA2F2F2F
+CONTEXT_MENU_MORE_COLOR      = 0xFC282828
+INVISIBLE_COLOR              = 0x80FFFFFF
 
 # Dialog colors
-DIALOG_COLOR                 = 0xFFB14E11    # White
-DIALOG_BG_COLOR              = 0xFF2F2F2F    # Darkgray #2
-PROGRESS_BAR_COLOR           = 0xFFECDE28   # Chartreuse
-PROGRESS_BAR_BG_COLOR        = 0xFFBFBFBF    # Gray
+DIALOG_COLOR                 = 0xFFB14E11
+DIALOG_BG_COLOR              = 0xFF2F2F2F
+PROGRESS_BAR_COLOR           = 0xFFECDE28
+PROGRESS_BAR_BG_COLOR        = 0xFFBFBFBF
 
 # Hex editor colors
-HEX_COLOR                    = 0xFFFFFFFF    # White
-HEX_OFFSET_COLOR             = 0xFFFFC58A    # Cyan
-HEX_NIBBLE_COLOR             = 0xFF0000FF    # Red
+HEX_COLOR                    = 0xFFFFFFFF
+HEX_OFFSET_COLOR             = 0xFFFFC58A
+HEX_NIBBLE_COLOR             = 0xFF0000FF
 
 # Text editor colors
-TEXT_COLOR                   = 0xFFFFFFFF    # White
-TEXT_FOCUS_COLOR             = 0xFF00FFEA    # Green
-TEXT_LINE_NUMBER_COLOR       = 0xFFFFC58A    # Darkgray #3
-TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFFFFFFF    # Gray
-TEXT_HIGHLIGHT_COLOR         = 0xFF80F5FF    # Yellow
+TEXT_COLOR                   = 0xFFFFFFFF
+TEXT_FOCUS_COLOR             = 0xFF00FFEA
+TEXT_LINE_NUMBER_COLOR       = 0xFFFFC58A
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFFFFFFF
+TEXT_HIGHLIGHT_COLOR         = 0xFF80F5FF
 
 # Photo viewer colors
-PHOTO_ZOOM_COLOR             = 0xFFFFFFFF    # White
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF
 
 # Audio player colors
-AUDIO_INFO_ASSIGN            = 0xFFFFC58A    # Cyan
-AUDIO_INFO                   = 0xFFFFFFFF    # White
-AUDIO_SPEED                  = 0xFFFFFFFF    # White
-AUDIO_TIME_CURRENT           = 0xFFBBE000    # Green
-AUDIO_TIME_SLASH             = 0xFFFFFFFF    # White
-AUDIO_TIME_TOTAL             = 0xFFFFFFFF    # White
-AUDIO_TIME_BAR               = 0xFFFFEBCF    # Azure
-AUDIO_TIME_BAR_BG            = 0x90BBE000    # Gray
+AUDIO_INFO_ASSIGN            = 0xFFFFC58A
+AUDIO_INFO                   = 0xFFFFFFFF
+AUDIO_SPEED                  = 0xFFFFFFFF
+AUDIO_TIME_CURRENT           = 0xFFBBE000
+AUDIO_TIME_SLASH             = 0xFFFFFFFF
+AUDIO_TIME_TOTAL             = 0xFFFFFFFF
+AUDIO_TIME_BAR               = 0xFFFFEBCF
+AUDIO_TIME_BAR_BG            = 0x90BBE000
