@@ -2,7 +2,7 @@
 ## A VitaShell Theme Family.
 
 ![image](Cobalt Theme/CobaltLogoS.png)
-![image](Cobalt Dark/CobaltDLogoS.png)
+![image](Cobalt Dark Theme/CobaltDLogoS.png)
 
 This is my entry to theFlow's VitaShell default theme contest. [Link](http://wololo.net/talk/viewtopic.php?f=116&t=47830&sid=8b890dbb3668cc097cb76f8f8ed849c8)
 
