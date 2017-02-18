@@ -5,7 +5,7 @@
 
 This is my second entry to theFlow's VitaShell default theme contest. [Link](http://wololo.net/talk/viewtopic.php?f=116&t=47830&sid=8b890dbb3668cc097cb76f8f8ed849c8)
 
-Based on the first iteration of Cobalt theme, this is a tweaked darker version. Features the same consistency as Cobalt with some cosmetic changes and darker shades, all while keeping the dominance of blue color. 
+Based on the first iteration of Cobalt theme, this is a tweaked darker version. Features the same consistency as Cobalt with some cosmetic changes and darker shades, all while keeping some blue in it. 
 
 ## Previews
 
