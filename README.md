@@ -1,7 +1,7 @@
 # Cobalt
 ## A VitaShell Theme
 
-![image](CobaltLogoS.png)
+![image](Cobalt Theme/CobaltLogoS.png)
 
 *(Yeah, it has a logo)*
 
