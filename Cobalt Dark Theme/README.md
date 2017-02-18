@@ -1,4 +1,4 @@
-# Cobalt
+# Cobalt Dark
 ## A VitaShell Theme
 
 ![image](CobaltDLogoS.png)
