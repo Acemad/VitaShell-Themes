@@ -1,0 +1,64 @@
+# VitaShell colors file for Cobalt Dark theme
+
+# Shell colors
+BACKGROUND_COLOR             = 0xFF000000
+TITLE_COLOR                  = 0xFFB9CC29
+PATH_COLOR                   = 0xFFCED1B8
+DATE_TIME_COLOR              = 0xFFF7FCD3
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xE082573C
+SETTINGS_MENU_FOCUS_COLOR    = 0x6FA8A8A8
+SETTINGS_MENU_TITLE_COLOR    = 0xFFB9CC29
+SETTINGS_MENU_ITEM_COLOR     = 0xFFCED1B8
+SETTINGS_MENU_OPTION_COLOR   = 0xFFE8CD31
+
+# File browser colors
+FOCUS_COLOR                  = 0xFF7DFF93
+FILE_COLOR                   = 0xFFE7E2B9
+SFO_COLOR                    = 0xFFE7E2B9
+TXT_COLOR                    = 0xFFE7E2B9
+FOLDER_COLOR                 = 0xFFCED1B8
+IMAGE_COLOR                  = 0xFFB9CC29
+ARCHIVE_COLOR                = 0xFF7ADEDE
+SCROLL_BAR_COLOR             = 0x80E8E8E8
+SCROLL_BAR_BG_COLOR          = 0x007F7F7F
+MARKED_COLOR                 = 0x4F83B812
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFF7FCD3
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF7DFF93
+CONTEXT_MENU_COLOR           = 0xFA2F2F2F
+CONTEXT_MENU_MORE_COLOR      = 0xFC282828
+INVISIBLE_COLOR              = 0x50FFFFFF
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFFCED1B8
+DIALOG_BG_COLOR              = 0xFF2F2F2F
+PROGRESS_BAR_COLOR           = 0xFFB9CC29
+PROGRESS_BAR_BG_COLOR        = 0x80BFBFBF
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFF7FCD3
+HEX_OFFSET_COLOR             = 0xFFFFC58A
+HEX_NIBBLE_COLOR             = 0xFF0000FF
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFF7FCD3
+TEXT_FOCUS_COLOR             = 0xFF7DFF93
+TEXT_LINE_NUMBER_COLOR       = 0xFFFFC58A
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFFFFFFF
+TEXT_HIGHLIGHT_COLOR         = 0xFF80F5FF
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFFFFC58A
+AUDIO_INFO                   = 0xFFFFFFFF
+AUDIO_SPEED                  = 0xFFFFFFFF
+AUDIO_TIME_CURRENT           = 0xFFBBE000
+AUDIO_TIME_SLASH             = 0xFFFFFFFF
+AUDIO_TIME_TOTAL             = 0xFFFFFFFF
+AUDIO_TIME_BAR               = 0xFFFFEBCF
+AUDIO_TIME_BAR_BG            = 0x90BBE000
