@@ -18,15 +18,20 @@ In my attemp to fulfill (more or less of) the above rules, I came up with the fo
 
 ![image](Cobalt Theme/CobaltLogoS.png)
 
-A fairly simple and clean theme with a predominant blue color, nondistractingly influenced by circuit boards with a touch of PlayStation. Highly consistent in every part of VitaShell.
-Features redesigned file browser icons and new backgrounds for file browser, text editor, hex editor, image viewer and music player, plus a prettier context menu and much more subtle changes and refinements.
+![image](Cobalt Theme/Previews/PreviewGeneral.jpg)
 
 ## Cobalt Dark
 
 ![image](Cobalt Dark Theme/CobaltDLogoS.png)
 
-A darker veriosn of Cobalt theme, with some subtle tweaks and modifications. features nearly identical design with a darker color scheme.
+![image](Cobalt Dark Theme/Previews/PreviewGeneral.jpg)
 
 ## Electron
 
-...
+![image](Electron Theme/ElectronLogo.png)
+
+![image](Electron Theme/Previews/PreviewGeneral.jpg)
+
+For more info and screenshots on each theme, please take a look inside specific folders.
+
+PS : Giving an identity to whatever I design is my hobby xD
