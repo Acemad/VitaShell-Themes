@@ -51,7 +51,7 @@ Music Player no Cover
 
 ![image](Previews/PreviewMusicPlayerNoCover.jpg)
 
-Image Viewer (Image si blurry because of the zoom)
+Image Viewer (Image is blurry because of the zoom)
 
 ![image](Previews/PreviewImageViewer.jpg)
 
