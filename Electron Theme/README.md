@@ -27,7 +27,7 @@ Dialog
 
 ![image](Previews/PreviewFTP.jpg)
 
-Context Menu
+Context Menu (battery charging)
 
 ![image](Previews/PreviewContext.jpg)
 
@@ -51,7 +51,7 @@ Music Player no Cover
 
 ![image](Previews/PreviewMusicPlayerNoCover.jpg)
 
-Image Viewer
+Image Viewer (Image si blurry because of the zoom)
 
 ![image](Previews/PreviewImageViewer.jpg)
 
