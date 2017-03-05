@@ -1,4 +1,4 @@
-# VitaShell colors file for Cobalt Dark theme
+# VitaShell colors file for Electron theme
 
 # Shell colors
 TITLE_COLOR                  = 0xFFFFF9D4
