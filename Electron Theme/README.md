@@ -21,13 +21,13 @@ Settings
 
 ![image](Previews/PreviewSettings.jpg)
 
-Dialog
+Dialog (Battery Charging)
 
 ![image](Previews/PreviewProgressBar.jpg)
 
 ![image](Previews/PreviewFTP.jpg)
 
-Context Menu (battery charging)
+Context Menu
 
 ![image](Previews/PreviewContext.jpg)
 
@@ -35,19 +35,19 @@ Context Menu More
 
 ![image](Previews/PreviewContextMore.jpg)
 
-Text Editor
+Text Editor (Battery Charging)
 
 ![image](Previews/PreviewTextEditor.jpg)
 
-Hex Editor
+Hex Editor (Battery Charging)
 
 ![image](Previews/PreviewHexEditor.jpg)
 
-Music Player with Cover
+Music Player with Cover (Battery Charging)
 
 ![image](Previews/PreviewMusicPlayer.jpg)
 
-Music Player no Cover
+Music Player no Cover (Battery Charging)
 
 ![image](Previews/PreviewMusicPlayerNoCover.jpg)
 
