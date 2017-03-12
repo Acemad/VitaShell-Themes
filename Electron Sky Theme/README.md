@@ -23,7 +23,7 @@ Settings
 
 ![image](Previews/PreviewSettings.jpg)
 
-Dialog (Battery Charging)
+Dialog
 
 ![image](Previews/PreviewProgressBar.jpg)
 
