@@ -32,6 +32,13 @@ In my attemp to fulfill (more or less of) the above rules, I came up with the fo
 
 ![image](Electron Theme/Previews/PreviewGeneral.jpg)
 
+## Electron Sky
+
+![image](Electron Sky Theme/ElectronSkyLogo.png)
+
+![image](Electron Sky Theme/Previews/PreviewGeneral.jpg)
+
+
 For more info and screenshots on each theme, please take a look inside specific folders.
 
 PS : Giving an identity to whatever I design is my hobby xD
