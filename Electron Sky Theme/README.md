@@ -64,3 +64,19 @@ Image Viewer (Image is blurry because of the zoom)
 Simply copy the Electron Sky folder into `ux0:/VitaShell/theme/` and make sure to modify `theme.txt` (in the former directory) to point to the new theme. This is done by changing `THEME_NAME = "Old_theme"` to `THEME_NAME = "Electron Sky"`
 
 Thanks for stopping by and Enjoy :)
+
+## Bonus : LiveArea Theme
+
+A little gift to go with Electron Sky theme, a compatible LiveArea theme.
+
+Preview
+
+![image](Previews/PreviewLiveArea.jpg)
+
+Bubble
+
+![image](Previews/PreviewBubble.jpg)
+
+## Installation
+
+Simply FTP into your vita and copy the contents of LiveArea folder into `ur0:/appmeta/VITASHELL` (make sure it's ur0 and not ux0) while saying 'yes' to any overwrite prompt.
