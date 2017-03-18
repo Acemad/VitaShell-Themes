@@ -9,6 +9,8 @@ Electron Sky is a brighter version of the Electron theme, featuring the same des
 
 Electron Sky needs to be installed to be fully appreciated :)
 
+*( Electron Sky (Swapped) is the same theme, but for those with swapped O & X buttons )*
+
 ## Previews
 
 Home

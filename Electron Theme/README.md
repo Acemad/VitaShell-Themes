@@ -7,6 +7,8 @@ This one is rather different. Inspired by the flow of electrons through electron
 
 This theme took more time and effort than I had imagined for a VitaShell theme. Trust me on this, screenshots won't do it justice, install it and see for yourself. :)
 
+*( Electron (Swapped) is the same theme, but for those with swapped O & X buttons )*
+
 ## Previews
 
 Home
