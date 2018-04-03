@@ -18,25 +18,25 @@ In my attemp to fulfill (more or less of) the above rules, I came up with the fo
 
 ![image](Cobalt%20Theme/CobaltLogoS.png)
 
-![image](Cobalt Theme/Previews/PreviewGeneral.jpg)
+![image](Cobalt%20Theme/Previews/PreviewGeneral.jpg)
 
 ## Cobalt Dark
 
-![image](Cobalt Dark Theme/CobaltDLogoS.png)
+![image](Cobalt%20Dark%20Theme/CobaltDLogoS.png)
 
-![image](Cobalt Dark Theme/Previews/PreviewGeneral.jpg)
+![image](Cobalt%20Dark%20Theme/Previews/PreviewGeneral.jpg)
 
 ## Electron
 
-![image](Electron Theme/ElectronLogo.png)
+![image](Electron%20Theme/ElectronLogo.png)
 
-![image](Electron Theme/Previews/PreviewGeneral.jpg)
+![image](Electron%20Theme/Previews/PreviewGeneral.jpg)
 
 ## Electron Sky
 
-![image](Electron Sky Theme/ElectronSkyLogo.png)
+![image](Electron%20Sky%20Theme/ElectronSkyLogo.png)
 
-![image](Electron Sky Theme/Previews/PreviewGeneral.jpg)
+![image](Electron%20Sky%20Theme/Previews/PreviewGeneral.jpg)
 
 
 For more info and screenshots on each theme, please take a look inside specific folders.
