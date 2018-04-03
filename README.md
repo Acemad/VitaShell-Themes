@@ -16,7 +16,7 @@ In my attemp to fulfill (more or less of) the above rules, I came up with the fo
 
 ## Cobalt
 
-![image]("Cobalt Theme/CobaltLogoS.png")
+![image](Cobalt%20Theme/CobaltLogoS.png)
 
 ![image](Cobalt Theme/Previews/PreviewGeneral.jpg)
 
